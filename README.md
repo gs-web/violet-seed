@@ -1,6 +1,6 @@
 # violet-seed
 
-基于 Vue + Typescript + ElementUI 的种子工程（可供产品内、其他产品或项目使用）
+基于 Vue + Typescript + ElementUI 的种子工程（可供产品或项目使用）
 
 ## 1、主要技术栈
 
@@ -19,13 +19,12 @@
 - [√] axios：0.18 - http 访问组件
 - [√] lodash：4.17 - 前端帮助库
 - [√] date-fns: 2.0 - 前端日期处理帮助库
-- [√] date-fns: 2.0 - 前端日期处理帮助库
 - [√] mocha: 5.2.4 - 单元测试框架
 - [√] chai: 4.1.2 - 单元测试断言库
 
 ### 1.2 内部提供组件：
 
-产品提供的基础组件库（可供产品内、其他产品或项目使用）  
+产品提供的基础组件库（可供产品或项目使用）  
  源码地址： `http://bitbucket.xxxxxxxxxxxx/projects/COMMON`  
  仓库地址：`http://xxxxxxxxxxxxxx:7002`
 
